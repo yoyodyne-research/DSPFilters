@@ -2,3 +2,6 @@ build
 .waf*
 .lock*
 .*.sw*
+/user/Workspaces/Bela/*.o
+/user/Workspaces/Bela/*.so
+
